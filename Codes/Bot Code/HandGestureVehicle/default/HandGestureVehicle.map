@@ -1,0 +1,588 @@
+Archive member included because of file (symbol)
+
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_udivmodhi4.o)
+                              HandGestureVehicle.o (__udivmodhi4)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_divmodhi4.o)
+                              HandGestureVehicle.o (__divmodhi4)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_exit.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2560.o (exit)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clear_bss.o)
+                              HandGestureVehicle.o (__do_clear_bss)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_fixunssfsi.o)
+                              HandGestureVehicle.o (__fixunssfsi)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_addsub_sf.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_fixunssfsi.o) (__subsf3)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_mul_sf.o)
+                              HandGestureVehicle.o (__mulsf3)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_gt_sf.o)
+                              HandGestureVehicle.o (__gtsf2)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_ge_sf.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_fixunssfsi.o) (__gesf2)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_lt_sf.o)
+                              HandGestureVehicle.o (__ltsf2)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_si_to_sf.o)
+                              HandGestureVehicle.o (__floatsisf)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_sf_to_si.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_thenan_sf.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_addsub_sf.o) (__thenan_sf)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_prologue.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_epilogue.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clzsi2.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_si_to_sf.o) (__clzsi2)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_pack_sf.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_addsub_sf.o) (__pack_f)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_unpack_sf.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_addsub_sf.o) (__unpack_f)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_fpcmp_parts_sf.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clz.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clzsi2.o) (__clz_tab)
+
+Allocating common symbols
+Common symbol       size              file
+
+million             0x2               HandGestureVehicle.o
+Y                   0x1               HandGestureVehicle.o
+temp                0x2               HandGestureVehicle.o
+x_arr               0x14              HandGestureVehicle.o
+tens                0x2               HandGestureVehicle.o
+data                0x1               HandGestureVehicle.o
+y_arr               0x14              HandGestureVehicle.o
+Z                   0x1               HandGestureVehicle.o
+hundred             0x2               HandGestureVehicle.o
+unit                0x2               HandGestureVehicle.o
+thousand            0x2               HandGestureVehicle.o
+z_arr               0x14              HandGestureVehicle.o
+X                   0x1               HandGestureVehicle.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00100000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800200
+LOAD c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2560.o
+LOAD HandGestureVehicle.o
+LOAD c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a
+LOAD c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a
+LOAD c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1a24
+ *(.vectors)
+ .vectors       0x00000000       0xe4 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2560.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x000000e4                . = ALIGN (0x2)
+                0x000000e4                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000e4        0x0 linker stubs
+ *(.trampolines*)
+                0x000000e4                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000e4                __ctors_start = .
+ *(.ctors)
+                0x000000e4                __ctors_end = .
+                0x000000e4                __dtors_start = .
+ *(.dtors)
+                0x000000e4                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000e4        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2560.o
+                0x000000e4                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000e4       0x10 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2560.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000f4       0x1a c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2560.o
+                0x000000f4                __do_copy_data
+ .init4         0x0000010e       0x10 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clear_bss.o)
+                0x0000010e                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000011e        0x8 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2560.o
+ *(.init9)
+ *(.text)
+ .text          0x00000126        0x4 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2560.o
+                0x00000126                __vector_38
+                0x00000126                __vector_22
+                0x00000126                __vector_28
+                0x00000126                __vector_1
+                0x00000126                __vector_32
+                0x00000126                __vector_34
+                0x00000126                __vector_24
+                0x00000126                __vector_12
+                0x00000126                __vector_55
+                0x00000126                __vector_46
+                0x00000126                __bad_interrupt
+                0x00000126                __vector_6
+                0x00000126                __vector_31
+                0x00000126                __vector_35
+                0x00000126                __vector_39
+                0x00000126                __vector_3
+                0x00000126                __vector_23
+                0x00000126                __vector_30
+                0x00000126                __vector_45
+                0x00000126                __vector_11
+                0x00000126                __vector_54
+                0x00000126                __vector_13
+                0x00000126                __vector_17
+                0x00000126                __vector_19
+                0x00000126                __vector_56
+                0x00000126                __vector_7
+                0x00000126                __vector_49
+                0x00000126                __vector_41
+                0x00000126                __vector_43
+                0x00000126                __vector_27
+                0x00000126                __vector_5
+                0x00000126                __vector_33
+                0x00000126                __vector_47
+                0x00000126                __vector_52
+                0x00000126                __vector_37
+                0x00000126                __vector_4
+                0x00000126                __vector_44
+                0x00000126                __vector_51
+                0x00000126                __vector_9
+                0x00000126                __vector_2
+                0x00000126                __vector_21
+                0x00000126                __vector_15
+                0x00000126                __vector_36
+                0x00000126                __vector_29
+                0x00000126                __vector_40
+                0x00000126                __vector_8
+                0x00000126                __vector_26
+                0x00000126                __vector_48
+                0x00000126                __vector_14
+                0x00000126                __vector_53
+                0x00000126                __vector_10
+                0x00000126                __vector_50
+                0x00000126                __vector_16
+                0x00000126                __vector_18
+                0x00000126                __vector_20
+                0x00000126                __vector_42
+ .text          0x0000012a      0xc1e HandGestureVehicle.o
+                0x00000484                port_init
+                0x000009d4                deaccelerate
+                0x00000b34                deaccelerateAndLeft
+                0x0000093c                accelerate
+                0x00000b66                moveBot
+                0x000003e2                motion_pin_config
+                0x00000404                init_timer
+                0x000003d6                buzzer_pin_config
+                0x0000085c                getDirection
+                0x00000c28                __vector_25
+                0x00000aa2                accelerateAndRight
+                0x0000012a                lcd_port_config
+                0x000004ae                init_devices
+                0x00000242                lcd_home
+                0x000003be                move_forward
+                0x00000ad2                accelerateAndLeft
+                0x00000202                lcd_wr_char
+                0x0000024a                lcd_string
+                0x00000416                uart0_init
+                0x0000029c                lcd_print
+                0x000003c4                right_turn
+                0x0000019a                lcd_wr_command
+                0x000003b4                velocity
+                0x00000264                lcd_cursor
+                0x000001da                lcd_init
+                0x00000cec                main
+                0x00000436                initarr
+                0x000005c8                dynamicMotion
+                0x00000138                lcd_set_4bit
+                0x00000b02                deaccelerateAndRight
+                0x00000a8e                stop
+                0x000004bc                shiftVal
+                0x000003ca                left_turn
+                0x000003d0                move_backward
+ .text          0x00000d48        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_udivmodhi4.o)
+ .text          0x00000d48        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_divmodhi4.o)
+ .text          0x00000d48        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_exit.o)
+ .text          0x00000d48        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clear_bss.o)
+ .text          0x00000d48       0x4c c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_fixunssfsi.o)
+                0x00000d48                __fixunssfsi
+ .text          0x00000d94      0x348 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_addsub_sf.o)
+                0x00001020                __subsf3
+                0x00001082                __addsf3
+ .text          0x000010dc      0x1fe c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_mul_sf.o)
+                0x000010dc                __mulsf3
+ .text          0x000012da       0x6c c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_gt_sf.o)
+                0x000012da                __gtsf2
+ .text          0x00001346       0x6c c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_ge_sf.o)
+                0x00001346                __gesf2
+ .text          0x000013b2       0x6c c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_lt_sf.o)
+                0x000013b2                __ltsf2
+ .text          0x0000141e       0xbc c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_si_to_sf.o)
+                0x0000141e                __floatsisf
+ .text          0x000014da       0xa6 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_sf_to_si.o)
+                0x000014da                __fixsfsi
+ .text          0x00001580        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_thenan_sf.o)
+ .text          0x00001580        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_prologue.o)
+ .text          0x00001580        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_epilogue.o)
+ .text          0x00001580       0x9a c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clzsi2.o)
+                0x00001580                __clzsi2
+ .text          0x0000161a      0x1c0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_pack_sf.o)
+                0x0000161a                __pack_f
+ .text          0x000017da       0xe0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_unpack_sf.o)
+                0x000017da                __unpack_f
+ .text          0x000018ba       0xac c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_fpcmp_parts_sf.o)
+                0x000018ba                __fpcmp_parts_f
+ .text          0x00001966        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clz.o)
+                0x00001966                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc   0x00001966       0x28 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_udivmodhi4.o)
+                0x00001966                __udivmodhi4
+ .text.libgcc   0x0000198e       0x26 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_divmodhi4.o)
+                0x0000198e                __divmodhi4
+                0x0000198e                _div
+ .text.libgcc   0x000019b4        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_exit.o)
+ .text.libgcc   0x000019b4        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x000019b4       0x38 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_prologue.o)
+                0x000019b4                __prologue_saves__
+ .text.libgcc   0x000019ec       0x36 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_epilogue.o)
+                0x000019ec                __epilogue_restores__
+                0x00001a22                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001a22        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_exit.o)
+                0x00001a22                exit
+                0x00001a22                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001a22        0x2 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001a24                _etext = .
+
+.data           0x00800200      0x122 load address 0x00001a24
+                0x00800200                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800200        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2560.o
+ .data          0x00800200       0x19 HandGestureVehicle.o
+                0x00800217                status
+ .data          0x00800219        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_udivmodhi4.o)
+ .data          0x00800219        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_divmodhi4.o)
+ .data          0x00800219        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_exit.o)
+ .data          0x00800219        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clear_bss.o)
+ .data          0x00800219        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_fixunssfsi.o)
+ .data          0x00800219        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_addsub_sf.o)
+ .data          0x00800219        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_mul_sf.o)
+ .data          0x00800219        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_gt_sf.o)
+ .data          0x00800219        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_ge_sf.o)
+ .data          0x00800219        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_lt_sf.o)
+ .data          0x00800219        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_si_to_sf.o)
+ .data          0x00800219        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_sf_to_si.o)
+ .data          0x00800219        0x8 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_thenan_sf.o)
+                0x00800219                __thenan_sf
+ .data          0x00800221        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_prologue.o)
+ .data          0x00800221        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_epilogue.o)
+ .data          0x00800221        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clzsi2.o)
+ .data          0x00800221        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_pack_sf.o)
+ .data          0x00800221        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_unpack_sf.o)
+ .data          0x00800221        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00800221      0x100 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clz.o)
+                0x00800221                __clz_tab
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800322                . = ALIGN (0x2)
+ *fill*         0x00800321        0x1 00
+                0x00800322                _edata = .
+                0x00800322                PROVIDE (__data_end, .)
+
+.bss            0x00800322       0x6e load address 0x00001b46
+                0x00800322                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800322        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2560.o
+ .bss           0x00800322       0x22 HandGestureVehicle.o
+                0x0080032c                acc
+                0x00800340                y_count
+                0x00800328                flagG
+                0x00800342                z_count
+                0x00800332                avger
+                0x00800336                xavg
+                0x00800330                right
+                0x0080032a                turn
+                0x0080032e                left
+                0x00800334                xsum
+                0x0080033e                x_count
+                0x0080033a                zsum
+                0x00800338                ysum
+                0x0080033c                yavg
+                0x00800326                accL
+                0x00800324                dCount
+                0x00800322                aCount
+ .bss           0x00800344        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_udivmodhi4.o)
+ .bss           0x00800344        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_divmodhi4.o)
+ .bss           0x00800344        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_exit.o)
+ .bss           0x00800344        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clear_bss.o)
+ .bss           0x00800344        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_fixunssfsi.o)
+ .bss           0x00800344        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_addsub_sf.o)
+ .bss           0x00800344        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_mul_sf.o)
+ .bss           0x00800344        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_gt_sf.o)
+ .bss           0x00800344        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_ge_sf.o)
+ .bss           0x00800344        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_lt_sf.o)
+ .bss           0x00800344        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_si_to_sf.o)
+ .bss           0x00800344        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_sf_to_si.o)
+ .bss           0x00800344        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_thenan_sf.o)
+ .bss           0x00800344        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_prologue.o)
+ .bss           0x00800344        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_epilogue.o)
+ .bss           0x00800344        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clzsi2.o)
+ .bss           0x00800344        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_pack_sf.o)
+ .bss           0x00800344        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_unpack_sf.o)
+ .bss           0x00800344        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x00800344        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clz.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00800344       0x4c HandGestureVehicle.o
+                0x00800344                million
+                0x00800346                Y
+                0x00800347                temp
+                0x00800349                x_arr
+                0x0080035d                tens
+                0x0080035f                data
+                0x00800360                y_arr
+                0x00800374                Z
+                0x00800375                hundred
+                0x00800377                unit
+                0x00800379                thousand
+                0x0080037b                z_arr
+                0x0080038f                X
+                0x00800390                PROVIDE (__bss_end, .)
+                0x00001a24                __data_load_start = LOADADDR (.data)
+                0x00001b46                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800390        0x0
+                0x00800390                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800390                PROVIDE (__noinit_end, .)
+                0x00800390                _end = .
+                0x00800390                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000      0x42c
+ *(.stab)
+ .stab          0x00000000      0x42c c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2560.o
+
+.stabstr        0x00000000       0x5f
+ *(.stabstr)
+ .stabstr       0x00000000       0x5f c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2560.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x20
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 HandGestureVehicle.o
+
+.debug_pubnames
+                0x00000000      0x36a
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0x36a HandGestureVehicle.o
+
+.debug_info     0x00000000      0xde6
+ *(.debug_info)
+ .debug_info    0x00000000      0xde6 HandGestureVehicle.o
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0x31b
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x31b HandGestureVehicle.o
+
+.debug_line     0x00000000      0xd2c
+ *(.debug_line)
+ .debug_line    0x00000000      0xd2c HandGestureVehicle.o
+
+.debug_frame    0x00000000      0x230
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x230 HandGestureVehicle.o
+
+.debug_str      0x00000000      0x34c
+ *(.debug_str)
+ .debug_str     0x00000000      0x34c HandGestureVehicle.o
+                                0x3ba (size before relaxing)
+
+.debug_loc      0x00000000      0x49d
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x49d HandGestureVehicle.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(HandGestureVehicle.elf elf32-avr)
+LOAD linker stubs
